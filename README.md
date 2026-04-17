@@ -30,8 +30,10 @@ Desarrollador full stack con pasión por crear aplicaciones completas desde el c
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -61,12 +63,12 @@ Desarrollador full stack con pasión por crear aplicaciones completas desde el c
 
 ## 🎯 Full Stack Projects
 
-### 🛍️ [E-Commerce Platform Completa](link-proyecto)
+### 🏪 [Betty Store](link-proyecto)
 Plataforma de comercio electrónico end-to-end con panel de administración.
 
-**Frontend:** React, TypeScript, Tailwind CSS, Redux Toolkit  
-**Backend:** Node.js, Express, MongoDB, JWT Auth  
-**DevOps:** Docker, AWS EC2, GitHub Actions  
+**Frontend:** React, JavaScript, CSS, Ant Design  
+**Backend:** PHP  
+**DevOps:** Vercel, GitHub Actions  
 
 **Features:** 
 - 🛒 Carrito de compras dinámico
@@ -189,13 +191,13 @@ const fullStackMindset = {
 
 ## 📈 Contribution Activity
 
-![Snake animation](https://github.com/TU_USERNAME/TU_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/agustinguzmanzenteno/agustinguzmanzenteno/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=F75C7E&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=agustinguzmanzenteno&color=F75C7E&style=for-the-badge)
   
   **"Full stack development is not about knowing everything, it's about understanding how everything connects."**
   
