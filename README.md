@@ -191,7 +191,7 @@ const fullStackMindset = {
 
 ## 📈 Contribution Activity
 
-![Snake animation](https://github.com/agustinguzmanzenteno/agustinguzmanzenteno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/agustinguzmanzenteno/agustinguzmanzenteno/blob/output/github-snake.svg)
 
 ---
 
