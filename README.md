@@ -129,7 +129,7 @@ graph TB
 
 | Stack | Frontend | Backend | Database | Deployment |
 |-------|----------|---------|----------|------------|
-| **MERN** | React | Node.js + Express | MongoDB | Vercel + Railway |
+| **PERN** | React | Node.js + Express | PostgreSQL | Vercel + Railway |
 | **PEVN** | Vue 3 | Express + Node.js | PostgreSQL | Netlify + Heroku |
 | **Next + FastAPI** | Next.js | Python + FastAPI | PostgreSQL | Vercel + AWS |
 | **Full Django** | Django Templates | Django REST | PostgreSQL | Docker + GCP |
@@ -146,15 +146,6 @@ graph TB
 - **🔍 Testing** - Unit, Integration, E2E testing
 - **📊 Performance Optimization** - Frontend & Backend optimization
 - **🔐 Security** - Authentication, Authorization, Data Protection
-
-## 📚 Últimos Artículos
-
-<!-- BLOG-POST-LIST:START -->
-- [From Idea to Production: Building a Full Stack App in 2024](link)
-- [Microservices vs Monolith: A Full Stack Perspective](link)
-- [Optimizing Full Stack Performance: Frontend to Database](link)
-- [Modern Authentication Patterns for Full Stack Apps](link)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect With Me
 
